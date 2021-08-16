@@ -14,7 +14,6 @@
 
 - 💬 Ask me about JavaScript/React Js
 
-
   <br />
   <br />
 
@@ -24,10 +23,8 @@
 
 - [MovieStart Website](https://nguyenhoaikhang37.github.io/webMovieStart/)
 
-
   <br />
   <br />
-
 
 **Languages ✍️**
 
