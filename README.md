@@ -15,7 +15,6 @@
 - 💬 Ask me about JavaScript/React Js
 
   <br />
-  <br />
 
 **Latest Projects 📚**
 
@@ -23,7 +22,6 @@
 
 - [MovieStart Website](https://nguyenhoaikhang37.github.io/webMovieStart/)
 
-  <br />
   <br />
 
 **Languages ✍️**
