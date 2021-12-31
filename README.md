@@ -24,6 +24,10 @@
 
 - [React App Movie Booking](https://booking-moviecy.herokuapp.com/home)
 
+- [HufiFood App (Order food online)](https://hufifood.vercel.app/)
+
+- [Manager HufiFood App (Manager order food online)](https://hufifood-partner.vercel.app/admin/profile)
+
   <br />
 
 **Languages ✍️**
@@ -36,7 +40,7 @@
 </p>
 <br />
 
-**Framworks 💦**
+**Frameworks 💦**
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>&nbsp;
