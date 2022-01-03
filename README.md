@@ -28,6 +28,9 @@
 
 - [Manager HufiFood App (Manager order food online)](https://hufifood-partner.vercel.app/admin/profile)
 
+- [Dog Sticker App (React-query)](https://dog-stickers-app.vercel.app/)
+
+
   <br />
 
 **Languages ✍️**
