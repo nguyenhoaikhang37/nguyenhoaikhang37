@@ -14,9 +14,7 @@
 
 - 💬 Ask me about JavaScript/React Js
 
-  <br />
-
-##Latest Projects 📚
+## Latest Projects 📚
 
 - [Massive Website](https://nguyenhoaikhang37.github.io/MassiveWebsite/)
 
@@ -29,9 +27,6 @@
 - [Manager HufiFood App (Manager order food online)](https://hufifood-partner.vercel.app/admin/profile)
 
 - [Dog Sticker App (React-query)](https://dog-stickers-app.vercel.app/)
-
-
-  <br />
 
 ## My knowledge
 
@@ -54,7 +49,6 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/>&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="25" height="25"/>
 </p>
-<br />
 
 ## Tools 🌊
 
@@ -62,5 +56,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="29" height="29"/>&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="28" height="28"/>
 </p>
-<br />
 
