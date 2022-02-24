@@ -22,9 +22,11 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/NextJS-282C34?logo=nextjs&logoColor=000000" alt="NextJS logo" title="NextJS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/NextJS-282C34?logo=next.js&logoColor=fff" alt="NextJS logo" title="NextJS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/React%20Query-282C34?logo=react-query&logoColor=FF4154" alt="React Query logo" title="React Query" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
 &nbsp;
@@ -32,7 +34,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Adobe%20Photoshop-282C34?logo=adobephotoshop&logoColor=31A8FF" alt="Adobe Photoshop logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 
 <br>
@@ -56,10 +58,10 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://nguyenhoaikhang-cv.vercel.app/" target="blank">
-    <img src="https://img.icons8.com/bubbles/344/domain.png" alt="nguyenhoaikhang-website" />
+    <img src="https://img.icons8.com/bubbles/100/domain.png" alt="nguyenhoaikhang-website" />
   </a>
   <a href="https://github.com/nguyenhoaikhang37" target="blank">
-    <img src="https://img.icons8.com/bubbles/344/github.png" alt="nguyenhoaikhang-instagram" />
+    <img src="https://img.icons8.com/bubbles/100/github.png" alt="nguyenhoaikhang-instagram" />
   </a>
   <a href="mailto:nguyenhoaikhang37@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="nguyenhoaikhang-email" />
