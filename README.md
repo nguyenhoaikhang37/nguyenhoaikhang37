@@ -57,10 +57,10 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://nguyenhoaikhang-cv.vercel.app/" target="blank">
+  <a href="https://nguyenhoaikhang-cv.vercel.app/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/domain.png" alt="nguyenhoaikhang-website" />
   </a>
-  <a href="https://github.com/nguyenhoaikhang37" target="blank">
+  <a href="https://github.com/nguyenhoaikhang37" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/github.png" alt="nguyenhoaikhang-instagram" />
   </a>
   <a href="mailto:nguyenhoaikhang37@gmail.com" target="top">
